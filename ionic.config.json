@@ -1,0 +1,8 @@
+{
+  "name": "IonicCalculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "dee6ca0b"
+}
